@@ -1,0 +1,16 @@
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.exe
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.deps.json
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.runtimeconfig.json
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.runtimeconfig.dev.json
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.dll
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Project0.pdb
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.csproj.AssemblyReference.cache
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.AssemblyInfoInputs.cache
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.AssemblyInfo.cs
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.csproj.CopyComplete
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.dll
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.pdb
+C:\Users\Togrul\Desktop\p3262\Project0\Project0\obj\Debug\netcoreapp3.1\Project0.genruntimeconfig.cache

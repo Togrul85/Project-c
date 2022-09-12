@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Des2fdE3H11SpjDWORsQwVTrxXHyXOGX8p0OpwvHnrOvgJZdmaNGx/r7srTBGSujRjj4FAId+YxwktbhjbgWJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\project\\Project0\\Project0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Togrul\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
